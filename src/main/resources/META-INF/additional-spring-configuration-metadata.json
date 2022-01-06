@@ -1,0 +1,23 @@
+{"properties": [
+  {
+    "name": "notificador.email.porta-servidor",
+    "type": "java.lang.String",
+    "description": "A description for 'notificador.email.porta-servidor'"
+  },
+  {
+    "name": "notificador.email.host-servidor",
+    "type": "java.lang.String",
+    "description": "A description for 'notificador.email.host-servidor'"
+  },
+  {
+    "name": "spring,jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring,jpa.show-sql'"
+  },
+  {
+    "name": "hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate.dialect'"
+  }
+
+]}
